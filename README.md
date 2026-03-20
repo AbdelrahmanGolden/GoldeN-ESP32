@@ -1,5 +1,5 @@
 
-# ESP32-Board-Design
+# ESP32-GoldeN-Kit
 
 This project presents a custom-designed ESP32 development board created to solve common issues found in standard dev boards:
 - Noise during code uploading
@@ -38,7 +38,6 @@ EasyEDA (schematic + PCB design)
 - USB-C support
 - Improved EMI shielding
 - On-board debugging interface
-- More elaborative Text on board to make it more and more beginner friendly
 ## Author
 - [@Abdelrahman Abdelkhaliq](https://github.com/AbdelrahmanGolden)
 
