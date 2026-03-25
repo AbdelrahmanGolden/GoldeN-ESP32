@@ -1,5 +1,5 @@
 
-# ESP32-GoldeN-Kit
+# GoldeN-ESP32
 
 This project presents a custom-designed ESP32 development board created to solve common issues found in standard dev boards:
 - Noise during code uploading
