@@ -42,5 +42,5 @@ EasyEDA (schematic + PCB design)
 ## Author
 - [@Abdelrahman Abdelkhaliq](https://github.com/AbdelrahmanGolden)
 
-Embedded Systems Engineer
+Embedded Systems & Machine Learning Engineer.
 
