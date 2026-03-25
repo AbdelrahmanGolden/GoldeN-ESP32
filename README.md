@@ -31,9 +31,10 @@ EasyEDA (schematic + PCB design)
 - Dual power input (USB + external 5V)
 - Protection against reverse/back power
 ## Files Included
--  Schematic (PDF)
-- PCB layout
-- Gerber files (ready for manufacturing)
+-  Manufacturing: BOM and Gerber Files needed if you want to manufacture the ESP32.
+- Photos: All Photos taken to the ESP32.
+- Refrence: The main Datasheets I took as a refrence during the design of this ESP32 PCB.
+- Schematic: The PDF of the schematic, you can take it as a refrence for your future projects.
 ## Future Improvements
 - USB-C support
 - Improved EMI shielding
